@@ -38,7 +38,7 @@
     "date-fns": "^2.22.1",
     "dotenv": "^10.0.0",
     "mkdirp": "^1.0.4",
-    "sleepover": "^1.1.4"
+    "sleepover": "^1.3.0"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.27.0",
